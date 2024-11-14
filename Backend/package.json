@@ -1,0 +1,16 @@
+{
+  "name": "osumare",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mongoose": "^8.8.1",
+    "validator": "^13.12.0"
+  }
+}
